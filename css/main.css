@@ -1,0 +1,8 @@
+body {
+    background-color: azure;
+}
+
+.active {
+    color: white;
+    background-color: purple;
+}
